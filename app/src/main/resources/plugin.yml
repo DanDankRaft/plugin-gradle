@@ -1,0 +1,14 @@
+name: PluginGradle
+version: 0.1
+main: org.example.App
+api-version: "1.21.11"
+commands:
+  menu:
+    description: "use this to open a sample menu"
+    usage: "/menu"
+  rainbow:
+    description: "displays a rainbow greeting"
+    usage: "/rainbow"
+  togglesync:
+    description: "toggles whether the player syncs"
+    usage: "/togglesync"
