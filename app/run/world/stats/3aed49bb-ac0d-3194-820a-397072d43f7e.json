@@ -1,23 +1,42 @@
 {
   "stats": {
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 67430,
-      "minecraft:walk_one_cm": 222,
-      "minecraft:total_world_time": 67430,
-      "minecraft:leave_game": 15,
-      "minecraft:fly_one_cm": 2345,
-      "minecraft:crouch_one_cm": 4,
-      "minecraft:sneak_time": 91,
-      "minecraft:play_time": 67430,
-      "minecraft:jump": 5,
-      "minecraft:time_since_death": 67430
-    },
     "minecraft:used": {
-      "minecraft:spruce_log": 30,
-      "minecraft:lava_bucket": 6,
-      "minecraft:water_bucket": 4,
-      "minecraft:stripped_oak_log": 26,
-      "minecraft:bucket": 6
+      "minecraft:sand": 2,
+      "minecraft:lava_bucket": 31,
+      "minecraft:stone_stairs": 1,
+      "minecraft:oak_log": 7,
+      "minecraft:spruce_log": 49,
+      "minecraft:stone": 162,
+      "minecraft:water_bucket": 7,
+      "minecraft:oak_sign": 9,
+      "minecraft:stripped_oak_log": 30,
+      "minecraft:chest": 2,
+      "minecraft:bucket": 19,
+      "minecraft:ladder": 6,
+      "minecraft:oak_pressure_plate": 2,
+      "minecraft:oak_door": 8
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 165216,
+      "minecraft:walk_one_cm": 19935,
+      "minecraft:leave_game": 71,
+      "minecraft:damage_taken": 520,
+      "minecraft:play_time": 764690,
+      "minecraft:jump": 105,
+      "minecraft:time_since_death": 165190,
+      "minecraft:sprint_one_cm": 1253,
+      "minecraft:open_chest": 9,
+      "minecraft:total_world_time": 764690,
+      "minecraft:fly_one_cm": 199109,
+      "minecraft:walk_on_water_one_cm": 733,
+      "minecraft:crouch_one_cm": 1174,
+      "minecraft:sneak_time": 2322,
+      "minecraft:deaths": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_sign": 1,
+      "minecraft:ladder": 3,
+      "minecraft:lava_bucket": 5
     }
   },
   "DataVersion": 4671

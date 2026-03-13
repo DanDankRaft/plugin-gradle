@@ -8,28 +8,28 @@
     "minecraft:killed": {
       "minecraft:slime": 19
     },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 19632,
+      "minecraft:walk_one_cm": 15281,
+      "minecraft:leave_game": 5,
+      "minecraft:mob_kills": 19,
+      "minecraft:damage_taken": 560,
+      "minecraft:play_time": 29511,
+      "minecraft:damage_dealt": 670,
+      "minecraft:jump": 45,
+      "minecraft:time_since_death": 19459,
+      "minecraft:sprint_one_cm": 4605,
+      "minecraft:total_world_time": 29511,
+      "minecraft:fly_one_cm": 166265,
+      "minecraft:crouch_one_cm": 282,
+      "minecraft:sneak_time": 1232,
+      "minecraft:deaths": 3
+    },
     "minecraft:used": {
       "minecraft:flint_and_steel": 3,
       "minecraft:stripped_oak_log": 13,
       "minecraft:netherite_sword": 31,
       "minecraft:obsidian": 15
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 19498,
-      "minecraft:walk_one_cm": 15281,
-      "minecraft:leave_game": 4,
-      "minecraft:mob_kills": 19,
-      "minecraft:damage_taken": 560,
-      "minecraft:play_time": 29377,
-      "minecraft:damage_dealt": 670,
-      "minecraft:jump": 45,
-      "minecraft:time_since_death": 19325,
-      "minecraft:sprint_one_cm": 4605,
-      "minecraft:total_world_time": 29377,
-      "minecraft:fly_one_cm": 165799,
-      "minecraft:crouch_one_cm": 282,
-      "minecraft:sneak_time": 1232,
-      "minecraft:deaths": 3
     }
   },
   "DataVersion": 4671

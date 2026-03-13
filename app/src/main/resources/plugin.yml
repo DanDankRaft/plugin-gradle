@@ -11,4 +11,13 @@ commands:
     usage: "/rainbow"
   togglesync:
     description: "toggles whether the player syncs"
-    usage: "/togglesync"
+    usage: "/togglesync <player> <state>"
+  tpoverworld:
+    description: "teleports user to the same coordinates in the overworld"
+    usage: "/tpoverworld"
+  tpmirror:
+    description: "teleports user to the same coordinates in the mirror world"
+    usage: "/tpmirror"
+  startlevel:
+    description: "gets two players started on some chud level"
+    usage: "/startlevel <level> <player1> <player2>"

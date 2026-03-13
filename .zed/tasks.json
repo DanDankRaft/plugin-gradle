@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Run Server",
+    "command": "java",
+    "args": [
+      "-jar",
+      "-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005",
+      "paper.jar",
+      "--nogui",
+    ],
+    "shell": {
+      "program": "sh",
+    },
+    "cwd": "$ZED_WORKTREE_ROOT/app/run",
+  },
+]

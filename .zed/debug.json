@@ -1,0 +1,19 @@
+// Project-local debug tasks
+//
+// For more documentation on how to configure debug tasks,
+// see: https://zed.dev/docs/debugger
+[
+  {
+    "adapter": "Java",
+    "request": "attach",
+    "hostName": "localhost",
+    "port": 5005,
+    "label": "Launch Debugger",
+    // if your project has multiple entry points, specify the one to use:
+    // "mainClass": "com.myorganization.myproject.MyMainClass",
+    //
+    // this effectively sets a breakpoint at your program entry:
+    // the working directory for the debug process
+    "cwd": "$ZED_WORKTREE_ROOT/app/run",
+  },
+]

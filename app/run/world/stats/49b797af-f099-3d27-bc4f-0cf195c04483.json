@@ -1,19 +1,43 @@
 {
   "stats": {
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 63787,
-      "minecraft:walk_one_cm": 1896,
-      "minecraft:total_world_time": 63787,
-      "minecraft:leave_game": 14,
-      "minecraft:fly_one_cm": 1379,
-      "minecraft:sneak_time": 72,
-      "minecraft:play_time": 63787,
-      "minecraft:jump": 17,
-      "minecraft:time_since_death": 63787
-    },
     "minecraft:used": {
-      "minecraft:bucket": 1,
-      "minecraft:cobblestone": 1
+      "minecraft:lava_bucket": 20,
+      "minecraft:red_concrete": 4,
+      "minecraft:blue_concrete": 5,
+      "minecraft:stone_stairs": 1,
+      "minecraft:oak_log": 58,
+      "minecraft:cobblestone": 15,
+      "minecraft:stone": 226,
+      "minecraft:water_bucket": 18,
+      "minecraft:oak_sign": 10,
+      "minecraft:glass": 8,
+      "minecraft:bucket": 21,
+      "minecraft:ladder": 4,
+      "minecraft:oak_pressure_plate": 2,
+      "minecraft:oak_door": 4
+    },
+    "minecraft:killed": {
+      "minecraft:slime": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 786619,
+      "minecraft:walk_one_cm": 35097,
+      "minecraft:leave_game": 74,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 10,
+      "minecraft:damage_dealt": 49,
+      "minecraft:play_time": 786619,
+      "minecraft:jump": 149,
+      "minecraft:time_since_death": 786619,
+      "minecraft:sprint_one_cm": 7178,
+      "minecraft:open_chest": 9,
+      "minecraft:fall_one_cm": 300,
+      "minecraft:total_world_time": 786619,
+      "minecraft:fly_one_cm": 205854,
+      "minecraft:walk_on_water_one_cm": 6888,
+      "minecraft:crouch_one_cm": 1287,
+      "minecraft:sneak_time": 1972,
+      "minecraft:climb_one_cm": 862
     }
   },
   "DataVersion": 4671
